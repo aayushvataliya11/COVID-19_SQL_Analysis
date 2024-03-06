@@ -8,7 +8,7 @@
 
 ### About Dataset:
 
-Information on each attribute in the dataset : Markup :  [COVID-19 Dataset](http://www.google.fr/ "Named link title")
+Information on each attribute in the dataset:  [COVID-19 Dataset](https://github.com/aayushvataliya11/COVID-19_SQL_Analysis/blob/main/Corona%20Virus%20Dataset.csv)
 
 * Province: Geographic subdivision within a country/region.
 * Country/Region: Geographic entity where data is recorded.

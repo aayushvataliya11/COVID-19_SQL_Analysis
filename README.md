@@ -56,6 +56,7 @@ Thus dataset contains information related to 'location', 'date' and various cate
     3. Dominica
     4. Marshall Islands
 
+ For furthur information, refer [COVID-19_SQL_Analysis_Presentation](https://github.com/aayushvataliya11/COVID-19_SQL_Analysis/blob/main/COVID-19_SQL_Analysis_Presentation.pdf)
 
 
 
